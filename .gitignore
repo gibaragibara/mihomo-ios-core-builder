@@ -1,0 +1,7 @@
+build/
+dist/
+*.framework
+*.xcframework
+*.zip
+.DS_Store
+
